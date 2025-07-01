@@ -81,8 +81,8 @@
  }
 
  .home-img img{
-    width: 475px;
-    height:475px;
+    width: 300px;
+    height:300px;
     border-radius:50%;
     object-fit:cover;
  }
